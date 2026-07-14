@@ -61,6 +61,6 @@ npm run dev
 
 ## 界面截图
 
-![知识库管理](https://minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com/ccv2%2F2026-07-14%2FMiniMax-M2.7%2F2031270426566464031%2Fc21ab5973852439820382785e9cc176d350f539a558958ea59de2379a477b54b..png?Expires=1784094543&OSSAccessKeyId=LTAI5tGLnRTkBjLuYPjNcKQ8&Signature=KDkCeLBkdetbzLvWMlYTjd47GLE%3D)
+![知识库管理](references/1.png)
 
-![文档查询](https://minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com/ccv2%2F2026-07-14%2FMiniMax-M2.7%2F2031270426566464031%2F9c1688bf30e4732cd005029c34818f1de0bee513736b53cd7f94ada1d692ed3c..png?Expires=1784094544&OSSAccessKeyId=LTAI5tGLnRTkBjLuYPjNcKQ8&Signature=gz48n8J2sO5Ez6gQW2rth1qYMAI%3D)
+![文档查询](references/2.png)
