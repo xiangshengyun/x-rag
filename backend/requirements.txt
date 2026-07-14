@@ -1,0 +1,20 @@
+fastapi==0.110.0
+uvicorn[standard]==0.27.1
+python-multipart==0.0.9
+pydantic==2.6.1
+pydantic-settings==2.1.0
+
+# 文档解析
+pdfplumber==0.10.3
+markdown==3.5.2
+
+# 向量存储 (使用轻量级替代，无需编译)
+faiss-cpu==1.8.0
+packaging>=21.0
+numpy<2
+
+# Embedding
+httpx==0.26.0
+
+# 其他
+aiofiles==23.2.1
